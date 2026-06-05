@@ -1,0 +1,55 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_data",
+    "cases": [
+      {
+        "when": "{algidgleam:1b}",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/algidgleam"
+        }
+      },
+      { 
+        "when": "{bloodygrief:1b}",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/bloodygrief"
+        }
+      },
+      { 
+        "when": "{brasslegacy:1b}",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/brasslegacy"
+        }
+      },
+      { 
+        "when": "{evergreen:1b}",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/evergreen"
+        }
+      },
+      {
+        "when": "{faintquasar:1b}",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/faintquasar"
+        }
+      },
+      {
+        "when": "{nightbornsorrow:1b}",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/nightbornsorrow"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_sword"
+    }
+  }
+}

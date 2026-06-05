@@ -1,0 +1,15 @@
+§9 Algid Gleam                     -> /give @s diamond_sword[custom_data={algidgleam:1b},item_name=[{"text":"Algid Gleam","color":"blue"}]]
+§c Bloody Grief                    -> /give @s diamond_sword[custom_data={bloodygrief:1b},item_name=[{"text":"Bloody Grief","color":"red"}]]
+§6 Brass Legacy                    -> /give @s diamond_sword[custom_data={brasslegacy:1b},item_name=[{"text":"Brass Legacy","color":"gold"}]]
+§a Evergreen                       -> /give @s diamond_sword[custom_data={evergreen:1b},item_name=[{"text":"Evergreen","color":"green"}]]
+§d Faint Quasar                    -> /give @s diamond_sword[custom_data={faintquasar:1b},item_name=[{"text":"Faint Quasar","color":"light_purple"}]]
+§5 Nightorn Sorrow                 -> /give @s diamond_sword[custom_data={nightbornsorrow:1b},item_name=[{"text":"Nightorn Sorrow","color":"dark_purple"}]]
+
+
+
+§9 Algid Sheath                    -> /give @s shield[custom_data={agsheath:1b},item_name=[{"text":"Algid Sheath","color":"blue"}]]
+§c Bloody Sheath                   -> /give @s shield[custom_data={bgsheath:1b},item_name=[{"text":"Bloody Sheath","color":"red"}]]
+§6 Brass Legacy Sheath             -> /give @s shield[custom_data={blsheath:1b},item_name=[{"text":"Brass Legacy Sheath","color":"gold"}]]
+§a Evergreen Sheath                -> /give @s shield[custom_data={egsheath:1b},item_name=[{"text":"Evergreen Sheath","color":"green"}]]
+§d Faint Sheath                    -> /give @s shield[custom_data={fqsheath:1b},item_name=[{"text":"Faint Sheath","color":"light_purple"}]]
+§5 Nightborn Sheath                -> /give @s shield[custom_data={nbsheath:1b},item_name=[{"text":"Nightborn Sheath","color":"dark_purple"}]]
